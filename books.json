@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated": "2026-01-22T17:47:41.026Z",
+  "generated": "2026-01-22T18:14:18.220Z",
   "baseUrl": "https://raw.githubusercontent.com/hadithhub12/hadith-data/main",
-  "totalBooks": 625,
+  "totalBooks": 624,
   "totalTranslations": 0,
   "books": [
     {
@@ -4498,6 +4498,24 @@
           "sizeFormatted": "0.03 MB"
         },
         {
+          "volume": 2,
+          "filename": "al-kafi-v002.zip",
+          "size": 805746,
+          "sizeFormatted": "0.77 MB"
+        },
+        {
+          "volume": 3,
+          "filename": "al-kafi-v003.zip",
+          "size": 675533,
+          "sizeFormatted": "0.64 MB"
+        },
+        {
+          "volume": 4,
+          "filename": "al-kafi-v004.zip",
+          "size": 706060,
+          "sizeFormatted": "0.67 MB"
+        },
+        {
           "volume": 5,
           "filename": "al-kafi-v005.zip",
           "size": 715733,
@@ -4522,9 +4540,9 @@
           "sizeFormatted": "0.00 MB"
         }
       ],
-      "totalVolumes": 5,
-      "totalSize": 2004502,
-      "totalSizeFormatted": "1.91 MB"
+      "totalVolumes": 8,
+      "totalSize": 4191841,
+      "totalSizeFormatted": "4.00 MB"
     },
     {
       "slug": "al-klm-al-tib-w-al-ghith-al-sib",
@@ -4588,39 +4606,6 @@
       "totalVolumes": 1,
       "totalSize": 45496,
       "totalSizeFormatted": "0.04 MB"
-    },
-    {
-      "slug": "al-kafi-01348",
-      "id": "01348",
-      "titleAr": "الکافي",
-      "titleEn": "Al Kafi 01348",
-      "authorAr": "کلینی، محمد بن یعقوب",
-      "authorEn": "",
-      "sect": "shia",
-      "language": "ar",
-      "volumes": [
-        {
-          "volume": 2,
-          "filename": "al-kafi-01348-v002.zip",
-          "size": 805746,
-          "sizeFormatted": "0.77 MB"
-        },
-        {
-          "volume": 3,
-          "filename": "al-kafi-01348-v003.zip",
-          "size": 675533,
-          "sizeFormatted": "0.64 MB"
-        },
-        {
-          "volume": 4,
-          "filename": "al-kafi-01348-v004.zip",
-          "size": 706060,
-          "sizeFormatted": "0.67 MB"
-        }
-      ],
-      "totalVolumes": 3,
-      "totalSize": 2187339,
-      "totalSizeFormatted": "2.09 MB"
     },
     {
       "slug": "al-kshf-al-wafi",
