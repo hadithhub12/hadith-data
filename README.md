@@ -4,7 +4,7 @@ This repository contains hadith book data for the [Hadith Hub](https://hadithhub
 
 ## Contents
 
-- **624** Arabic books
+- **625** Arabic books
 - **0** English translations
 - **Total size**: 543.91 MB
 
